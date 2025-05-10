@@ -1,6 +1,6 @@
 # Nikola P. |  Focusing on Deep Learning Research and Applications
 
-<img src="https://komarev.com/ghpvc/?username=NikolaP454"/> [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+<img src="https://komarev.com/ghpvc/?username=NikolaP454"/> [![GitHub followers](https://img.shields.io/github/followers/NikolaP454.svg?style=social&label=Follow)](https://github.com/NikolaP454?tab=followers)<br/>
 
 ## ***About me***
 
