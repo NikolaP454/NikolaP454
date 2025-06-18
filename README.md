@@ -1,10 +1,22 @@
-# Nikola P. |  Focusing on Deep Learning Research and Applications
+# Nikola P. |  Deep Learning Research and Applications
 
 <img src="https://komarev.com/ghpvc/?username=NikolaP454"/> [![GitHub followers](https://img.shields.io/github/followers/NikolaP454.svg?style=social&label=Follow)](https://github.com/NikolaP454?tab=followers)<br/>
 
-## ***About me***
+### Education
+- Graduated with a BSc. in Computer Science (Ss. Cyril and Methodius University in Skopje)
 
-Hi, I'm Nikola, a final year BSc. in Computer Science student with a passion for AI innovation. Currently working as a data scientist with 1 year of hands-on experience transforming raw data into actionable insights. I've spent the last 2.5 years as a laboratory teaching assistant at FCSE, UKIM - Skopje, where I've helped guide the next generation of computer scientists. My true passion lies in Deep Learning Research, exploring how neural networks can solve complex problems and push the boundaries of what's possible. I'm constantly experimenting with new models and techniques, eager to contribute to this rapidly evolving field as I complete my studies and beyond.
+### Key Experience
+
+- Lab Teaching Assistant @ FCSE - Skopje (2y 5mo experience)
+- Data Scientist @ Innovation Dooel (1y experience)
+- ML Intern @ Innovation Dooel (3mo experience)
+
+### Areas of Interest
+- Deep Learning
+- ML in Healthcare
+- Graph Based Learning (New)
+
+### 
 
 # My GitHub's Tech Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaP454&langs_count=12&layout=compact)
