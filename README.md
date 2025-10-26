@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=NikolaP454"/> [![GitHub followers](https://img.shields.io/github/followers/NikolaP454.svg?style=social&label=Follow)](https://github.com/NikolaP454?tab=followers)<br/>
 
 ## Education
+- MSc. Student in Advanced Computer Science (University of Oxford)
 - BSc. in Computer Science (Ss. Cyril and Methodius University in Skopje)
 
 ## Key Experience
@@ -13,8 +14,7 @@
 
 ## Areas of Interest
 - Deep Learning
-- Reinforcement Learning
-- ML in Healthcare
+- Machine Learning
 
 
 # My GitHub's Tech Stack
