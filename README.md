@@ -1,4 +1,4 @@
-# Nikola P. | Deep Learning Research and Applications
+# Nikola P. | Interested in ML Research and Engineering 
 
 <img src="https://komarev.com/ghpvc/?username=NikolaP454"/> [![GitHub followers](https://img.shields.io/github/followers/NikolaP454.svg?style=social&label=Follow)](https://github.com/NikolaP454?tab=followers)<br/>
 
@@ -14,7 +14,7 @@
 
 ## Areas of Interest
 - Deep Learning
-- Machine Learning
+- Applied Machine Learning
 
 
 # My GitHub's Tech Stack
