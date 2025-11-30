@@ -13,9 +13,6 @@
 - ML Intern @ Innovation Dooel (3mo experience)
 
 ## Areas of Interest
+- Computer Vision
 - Deep Learning
 - Applied Machine Learning
-
-
-# My GitHub's Tech Stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaP454&langs_count=12&layout=compact)
